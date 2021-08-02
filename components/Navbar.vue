@@ -31,12 +31,11 @@
     </nav>
     <a href="?lang=br"><img src="~static/img/br.png" alt="Português do Brasil" title="Português do Brasil"/></a>
     <a href="?lang=www"><img src="~static/img/us.png" alt="English" title="English"/></a>
-    <h3>Online:</b> </h3>
     <h3>Donations:</h3>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_s-xclick"/>
-      <input type="hidden" name="hosted_button_id" value="4662790"/>
-      <input type="image" src="~static/img/donate.png" name="submit" alt="Contribua!"/>
+    <form action="https://www.paypal.com/donate" method="post" target="_top">
+      <input type="hidden" name="hosted_button_id" value="ALQYAZZJGDXWY" />
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
     </form>
   </aside>
 </template>
@@ -46,6 +45,9 @@
 </script>
 
 <style scoped>
+  h3 {
+    margin: 10px 0 5px;
+  }
   .cse-branding-logo img {
     vertical-align: sub;
   }
