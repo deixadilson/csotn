@@ -104,7 +104,7 @@
         <h3><NuxtLink to="maps/Abandoned-Mine">Abandoned Mine</NuxtLink></h3>
         <p>It's the shortest area in the game, its boss is <NuxtLink to="enemies/Cerberos">Cerberos</NuxtLink>. In a certain place of the area you will find a crossroads. To the left is the area 'Teleport Pad' (Snake) and to the right is a the <Item item="Demon Card"/> relic that alows you to summon the 'Demon Familiar'. Turn it on the relics menu and go back to the spot where is a button on the wall. The "Demon Familiar" can trigger the button showing a passageway where the <Item item="Ring of Ares"/> is found and you can break the left wall to open another passage with <Item item="Peanuts"/>, <Item item="Barley tea"/> and a <Item item="Power of Sire"/>. After getting the items, go back to the crossroads and follow the lower path. Take the <Item item="Combat knife"/> and a <Item item="Karma Coin"/> to the left in the next fork and follow your path to...</p>
         <h3><NuxtLink to="maps/Catacombs">Catacombs</NuxtLink></h3>
-        <p>In the dark spiked room use the <Item item="Echo of Bat"/> (<img src="~static/img/triangulo.gif" alt="Triangle"/>). Get the <Item item="Spike Breaker"/> and return to <NuxtLink to="maps/Royal-Chapel">Royal Chapel</NuxtLink>. In the spiked corridor, Equip your new armor and you may pass by unharmed. At the end of the coridor you'll find Maria.</p>
+        <p>In the dark spiked room use the <Item item="Echo of Bat"/> (<img src="/img/triangulo.gif" alt="Triangle"/>). Get the <Item item="Spike Breaker"/> and return to <NuxtLink to="maps/Royal-Chapel">Royal Chapel</NuxtLink>. In the spiked corridor, Equip your new armor and you may pass by unharmed. At the end of the coridor you'll find Maria.</p>
         <p><b>Maria:</b> So, did you find Richter?<br/>
         <b>Alucard:</b> I don't know if he's the one you're looking for, but I found a Belmont...<br/>
         <b>Maria:</b> Really? So he is here!<br/>
@@ -193,7 +193,3 @@
     </div>
   </div>
 </template>
-
-<script>
-  export default {}
-</script>

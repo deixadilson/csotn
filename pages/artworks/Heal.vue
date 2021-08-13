@@ -16,17 +16,13 @@
           <div class="previous"><NuxtLink to="/artworks/Spell">&laquo; Previous</NuxtLink></div>
           <div class="next"><NuxtLink to="/artworks/Artwork">Next &raquo;</NuxtLink></div>
         </div>
-        <img src="~static/img/artworks/heal.jpg"/>
+        <img src="/img/artworks/heal.jpg"/>
       </main>
       <hr/>
       <Footer/>
     </div>
   </div>
 </template>
-
-<script>
-  export default { }
-</script>
 
 <style scoped>
   main {

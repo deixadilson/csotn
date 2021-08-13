@@ -23,14 +23,10 @@
   </div>
 </template>
 
-<script>
-  export default {}
-</script>
-
 <style>
   @font-face{
       font-family: sotn;
-      src: url(~static/OldEnglish.ttf);
+      src: url(/OldEnglish.ttf);
   }
 
   body{
@@ -76,7 +72,7 @@
     width: 200px;
     padding: 4px 0 0 15px;
     display: block;
-    background: url(~static/img/button.gif) no-repeat;
+    background: url(/img/button.gif) no-repeat;
     text-align: left;
     color: #fff;
     font: 36px 'Old English Text MT', 'sotn';
@@ -87,7 +83,7 @@
     width: 734px;
     padding: 20px;
     min-height: 933px;
-    background: url(~static/bg.png) no-repeat fixed 200px 0px;
+    background: url(/bg.png) no-repeat fixed 200px 0px;
     line-height: 180%;
     float: left;
   }

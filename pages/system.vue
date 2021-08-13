@@ -82,7 +82,7 @@
           <area title="Time: Game Time." shape="rect" coords="420,336,476,348" alt=""/>
           <area title="Current Time: Informs the current Game Time." shape="rect" coords="514,336,636,348" alt=""/>
         </map>
-        <center><img src="~static/img/menu.gif" width="720" alt="Menu Screen" usemap="#map"/></center>
+        <center><img src="/img/menu.gif" width="720" alt="Menu Screen" usemap="#map"/></center>
         <p>When Alucard gains a level, some of his attributes growth randomly. <abbr title="Strength">STR</abbr>, <abbr title="Constitution">CON</abbr>, <abbr title="Intelligence">INT</abbr> and <abbr title="Luck">LCK</abbr>, can rise by 0, 1 or 2 points, however, if one of them rises 2, the others will rise 0. The other attribute that grows randomly is the <abbr title="Magic Points">MP</abbr> which rises 4 or 5 points. So the best results for a level up are <abbr title="Strength">STR</abbr>, <abbr title="Constitution">CON</abbr>, <abbr title="Intelligence">INT</abbr> and <abbr title="Luck">LCK</abbr> to rise 1 point and <abbr title="Magic Points">MP</abbr> to rise by 5. Hearts always rises 2 and <abbr title="Health Points">HP</abbr> rises as described in the next table along with the amount of <abbr title="Experience Points">EXP</abbr> necessary to reach each level.</p>
         <table style="width: 310px">
           <tr><td width="35">LV</td><td width="90">EXP</td><td width="90">Next</td><td>HP Bonus</td></tr>
@@ -194,24 +194,24 @@
         <p>This is the list of the spells Alucard can execute. (A red arrow means you have to hold the button for a second.)</p>
         <table border="1">
           <tr align="center"><td>SPELL</td><td>DESCRIPTION</td><td><abbr title="Magic Points">MP</abbr></td><td>COMMAND</td></tr>
-          <tr title="Summons a spirit which chases enemies."><td>Summon Spirit</td><td>Summons a fierce spirit</td><td align="center">5</td><td align="center"><img src="~static/img/summonspirit.gif" width="122" alt=""/></td></tr>
-          <tr title="Alucard is involved by a red aura allowing him to temporarily absorb enemy's blood."><td>Dark Metamorphosis</td><td>Heal <abbr title="Health Points">HP</abbr> by shedding blood</td><td align="center">10</td><td align="center"><img src="~static/img/darkmetamorphosis.gif" width="130" alt=""/></td></tr>
-          <tr title="Like his father, Alucard teleports and cast three fireballs or two bigger ones if you hold [up]. It's possible to control the teleportation and to cancel the attack if you hold [down]."><td>Hellfire</td><td>Teleport and fireball attack</td><td align="center">15</td><td align="center"><img src="~static/img/hellfire.gif" width="120" alt=""/></td></tr>
-          <tr title="Similar to 'Summon Spirit' but summoning four spirits."><td>Tetra Spirit</td><td>Summons four spirits</td><td align="center">20</td><td align="center"><img src="~static/img/tetraspirit.gif" width="132" alt=""/></td></tr>
-          <tr title="Damages all enemies and restores 8 HP for each hit."><td>Soul Steal</td><td>Steals <abbr title="Health Points">HP</abbr> from nearby enemies</td><td align="center">50</td><td align="center"><img src="~static/img/soulsteal.gif" width="160" alt=""/></td></tr>
-          <tr title="Hold [X], make the command and release. Fly quickly as Bat hitting all enemies in his path."><td>Wing Smash</td><td>Powerful attack by Wolf</td><td align="center">8</td><td align="center"><img src="~static/img/wingsmash.gif" width="92" alt=""/></td></tr>
-          <tr title="Runs quickly as wolf hitting all enemies in his path."><td>Wolf Charge</td><td>Powerful attack by Bat</td><td align="center">10</td><td align="center"><img src="~static/img/wolfcharge.gif" width="64" alt=""/></td></tr>
-          <tr title="Made by the 'Sword Familiar'. Damages all enemies."><td>Sword Brothers</td><td>Summons Sword Brothers</td><td align="center">30</td><td align="center"><img src="~static/img/swordbrothers.gif" width="146" alt=""/></td></tr>
+          <tr title="Summons a spirit which chases enemies."><td>Summon Spirit</td><td>Summons a fierce spirit</td><td align="center">5</td><td align="center"><img src="/img/summonspirit.gif" width="122" alt=""/></td></tr>
+          <tr title="Alucard is involved by a red aura allowing him to temporarily absorb enemy's blood."><td>Dark Metamorphosis</td><td>Heal <abbr title="Health Points">HP</abbr> by shedding blood</td><td align="center">10</td><td align="center"><img src="/img/darkmetamorphosis.gif" width="130" alt=""/></td></tr>
+          <tr title="Like his father, Alucard teleports and cast three fireballs or two bigger ones if you hold [up]. It's possible to control the teleportation and to cancel the attack if you hold [down]."><td>Hellfire</td><td>Teleport and fireball attack</td><td align="center">15</td><td align="center"><img src="/img/hellfire.gif" width="120" alt=""/></td></tr>
+          <tr title="Similar to 'Summon Spirit' but summoning four spirits."><td>Tetra Spirit</td><td>Summons four spirits</td><td align="center">20</td><td align="center"><img src="/img/tetraspirit.gif" width="132" alt=""/></td></tr>
+          <tr title="Damages all enemies and restores 8 HP for each hit."><td>Soul Steal</td><td>Steals <abbr title="Health Points">HP</abbr> from nearby enemies</td><td align="center">50</td><td align="center"><img src="/img/soulsteal.gif" width="160" alt=""/></td></tr>
+          <tr title="Hold [X], make the command and release. Fly quickly as Bat hitting all enemies in his path."><td>Wing Smash</td><td>Powerful attack by Wolf</td><td align="center">8</td><td align="center"><img src="/img/wingsmash.gif" width="92" alt=""/></td></tr>
+          <tr title="Runs quickly as wolf hitting all enemies in his path."><td>Wolf Charge</td><td>Powerful attack by Bat</td><td align="center">10</td><td align="center"><img src="/img/wolfcharge.gif" width="64" alt=""/></td></tr>
+          <tr title="Made by the 'Sword Familiar'. Damages all enemies."><td>Sword Brothers</td><td>Summons Sword Brothers</td><td align="center">30</td><td align="center"><img src="/img/swordbrothers.gif" width="146" alt=""/></td></tr>
         </table>
         <a id="Richter-Skills"></a><h3>Richter Skills</h3>
         <p>This is the list of Richter Belmont Skills.</p>
         <table border="1">
           <tr align="center"><td width="174">SKILL</td><td width="357">DESCRIPTION</td><td>COMMAND</td></tr>
-          <tr title="Use the 'Vampire Killer' to attack in directions normal attack cannot and can be used to shield Richter from projectiles."><td>Brandish Whip</td><td>Controls the whip freely</td><td align="center"><img src="~static/img/brandishwhip.gif" alt=""/></td></tr>
-          <tr title="Jump and while Richter is raising, press jump again."><td>Backflip</td><td>Executes a somersault</td><td align="center"><img src="~static/img/backflip.gif" width="42" alt=""/></td></tr>
-          <tr title="Can be made in mid air."><td>Hyper Jump</td><td>Make a high uppercut with a short sword</td><td align="center"><img src="~static/img/hyperjump.gif" width="54" alt=""/></td></tr>
-          <tr title="It's possible to do another jump after this skill. Can be made in mid air."><td>Blade Dash</td><td>Air dash and short sword slash</td><td align="center"><img src="~static/img/bladedash.gif" width="80" alt=""/></td></tr>
-          <tr title="Press jump again, and the slide will turn into a flying kick."><td>Slide</td><td>Slide and kicks ground enemies</td><td align="center"><img src="~static/img/slide.gif" width="40" alt=""/></td></tr>
+          <tr title="Use the 'Vampire Killer' to attack in directions normal attack cannot and can be used to shield Richter from projectiles."><td>Brandish Whip</td><td>Controls the whip freely</td><td align="center"><img src="/img/brandishwhip.gif" alt=""/></td></tr>
+          <tr title="Jump and while Richter is raising, press jump again."><td>Backflip</td><td>Executes a somersault</td><td align="center"><img src="/img/backflip.gif" width="42" alt=""/></td></tr>
+          <tr title="Can be made in mid air."><td>Hyper Jump</td><td>Make a high uppercut with a short sword</td><td align="center"><img src="/img/hyperjump.gif" width="54" alt=""/></td></tr>
+          <tr title="It's possible to do another jump after this skill. Can be made in mid air."><td>Blade Dash</td><td>Air dash and short sword slash</td><td align="center"><img src="/img/bladedash.gif" width="80" alt=""/></td></tr>
+          <tr title="Press jump again, and the slide will turn into a flying kick."><td>Slide</td><td>Slide and kicks ground enemies</td><td align="center"><img src="/img/slide.gif" width="40" alt=""/></td></tr>
         </table>
         <p>Enemies only have the attributes <abbr title="Level">LV</abbr>, <abbr title="Health Points">HP</abbr>, <abbr title="Strength">STR</abbr> and <abbr title="Defense">DEF</abbr>. These are fixed numbers assuming they don't gain level. Some enemies can have multiple parts with different attributes, can also have weapons and special moves which add damage to his <abbr title="Strength">STR</abbr> when it touches your character<br/>
         The attack, from enemies and controllable characters, can have the following effects indicated by the respective colors: <abbr title="Hit"><font color="#00ffff">H</font><font color="#ff00ff">I</font><font color="#ffff00">T</font></abbr>, <abbr title="Cut"><font color="#ff0000">CUT</font></abbr>, <abbr title="Fire"><font color="#ff5500">FIR</font></abbr>, <abbr title="Ice"><font color="#0088ff">ICE</font></abbr>, <abbr title="Thunder"><font color="#ccff00">THU</font></abbr>, <abbr title="Holy"><font color="#00ff00">HOL</font></abbr>, <abbr title="Dark"><font color="#008800">DRK</font></abbr>, <abbr title="Stone"><font color="#888888">STN</font></abbr>, <abbr title="Poison"><font color="#880088">PSN</font></abbr> and <abbr title="Curse"><font color="#555500">CUR</font></abbr>. The last three causes status ailments. (there's also a <abbr title="Water">H2O</abbr> element but there are no attacks based on it...a).</p>
@@ -236,7 +236,7 @@
           <tr><td valign="top"><b>Absorb:</b></td><td>The damage done by an attack based on the element which the character absorbs is converted to <abbr title="Health Points">HP</abbr> ignoring <abbr title="Defense">DEF</abbr>.</td></tr>
         </table>
         <a id="Shield-Combos"></a><h3>Shield Combos</h3>
-        <p>When Alucard equips <Item item="Shield rod"/> or <Item item="Mablung Sword"/> together with a shield and <img src="~static/img/quadrado.gif" alt="Square"/> + <img src="~static/img/circulo.gif" alt="Circle"/> is pressed, a summoning of the shield's powersd is realized.<br/>
+        <p>When Alucard equips <Item item="Shield rod"/> or <Item item="Mablung Sword"/> together with a shield and <img src="/img/quadrado.gif" alt="Square"/> + <img src="/img/circulo.gif" alt="Circle"/> is pressed, a summoning of the shield's powersd is realized.<br/>
         This is the list of the effects of the summoning effects from each shield.</p>
         <table border="1">
           <tr align="center"><td colspan="2">SHIELD COMBO</td><td>DESCRIPTION</td><td><abbr title="Magic Points">MP</abbr></td></tr>
@@ -260,10 +260,6 @@
     </div>
   </div>
 </template>
-
-<script>
-  export default {}
-</script>
 
 <style scoped>
   table {

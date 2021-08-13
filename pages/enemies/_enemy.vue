@@ -13,10 +13,10 @@
       <hr/>
       <main>
         <div style="display: flex; align-items: center">
-          <div style="width: 20px"><NuxtLink v-if="previous" :to="`/enemies/${previous.Name.replace(/ /g,'-')}`"><img src="~static/img/goleft.gif" alt="Previous" title="Previous"/></NuxtLink></div>
+          <div style="width: 20px"><NuxtLink v-if="previous" :to="`/enemies/${previous.Name.replace(/ /g,'-')}`"><img src="/img/goleft.gif" alt="Previous" title="Previous"/></NuxtLink></div>
           <table id="enemy">
             <tr>
-              <td colspan="4"><img v-if="enemy.Blood" src="~static/img/blood.gif" title="Blood" alt="Blood"/><img v-else src="~static/img/skelly.gif" title="No blood" alt="No blood"/>{{ enemy.Name }}</td>
+              <td colspan="4"><img v-if="enemy.Blood" src="/img/blood.gif" title="Blood" alt="Blood"/><img v-else src="/img/skelly.gif" title="No blood" alt="No blood"/>{{ enemy.Name }}</td>
               <td style="width: 255px; text-align: right">No. {{ enemy.ID }}</td>
             </tr>
             <tr>
@@ -71,7 +71,7 @@
             </tr>
             <tr><td colspan="5" style="height: 64px; font-size: 24px;">{{ enemy.Description }}</td></tr>
           </table>
-          <div><NuxtLink v-if="next" :to="`/enemies/${next.Name.replace(/ /g,'-')}`"><img src="~static/img/goright.gif" alt="Next" title="Next"/></NuxtLink></div>
+          <div><NuxtLink v-if="next" :to="`/enemies/${next.Name.replace(/ /g,'-')}`"><img src="/img/goright.gif" alt="Next" title="Next"/></NuxtLink></div>
         </div>
       </main>
       <hr/>

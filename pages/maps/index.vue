@@ -13,7 +13,7 @@
       <main>
       <div style="text-align: center;">
         This is the map showing all the explorable rooms.<br/>
-        <img src="~static/img/map.gif" width="514" onclick="map(event)" alt="map"/><br/>
+        <img src="/img/map.gif" width="514" onclick="map(event)" alt="map"/><br/>
         Legend:<br/>
         <font color="#00bbff">Common Rooms</font> | 
         <font color="#dddddd">Secret Rooms</font> | 
@@ -46,7 +46,3 @@
     </div>
   </div>
 </template>
-
-<script>
-  export default {}
-</script>

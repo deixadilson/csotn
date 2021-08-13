@@ -23,12 +23,12 @@
           <b>Objetivo:</b> Atravessar o piso.<br/>
           <b>Onde usar:</b> Em rampas ou escadas.<br/>
           <b>Requisitos:</b> <Item item="Soul of Wolf"/> e <Item item="Power of Wolf"/>.<br/>
-          Tome uma boa distância da escada. Corra com com lobo de modo que, quando atingir a escada, ele esteja pelo menos em velocidade média. Espere o lobo tocar a escada, então, aperte <img src="~static/img/x.gif" alt="X"/> + L2 para destransformar. Você irá atravessar a escada e poderá cair fora do castelo. Um modo mais fácil de se fazer isto é, após correr e tocar a escada, pule. O lobo conseguirá um super pulo. Espere o exato momento que ele tocar a escada, então, destransforme. (Controvérsias: Há quem consiga fazer este truque apenas com a <Item item="Soul of Wolf"/>.)</li>
+          Tome uma boa distância da escada. Corra com com lobo de modo que, quando atingir a escada, ele esteja pelo menos em velocidade média. Espere o lobo tocar a escada, então, aperte <img src="/img/x.gif" alt="X"/> + L2 para destransformar. Você irá atravessar a escada e poderá cair fora do castelo. Um modo mais fácil de se fazer isto é, após correr e tocar a escada, pule. O lobo conseguirá um super pulo. Espere o exato momento que ele tocar a escada, então, destransforme. (Controvérsias: Há quem consiga fazer este truque apenas com a <Item item="Soul of Wolf"/>.)</li>
           <li><b>Wolf Squeeze (WS):</b><br/>
           <b>Objetivo:</b> Atravessar paredes.<br/>
           <b>Onde usar:</b> Em lugares bem apertados.<br/>
           <b>Requisitos:</b> <Item item="Soul of Wolf"/>.<br/>
-          Encaixe o lobo em um lugar bem apertado, então segure o direcional para andar e aperte <img src="~static/img/x.gif" alt="X"/> várias vezes. Ele irá cair através do piso.</li>
+          Encaixe o lobo em um lugar bem apertado, então segure o direcional para andar e aperte <img src="/img/x.gif" alt="X"/> várias vezes. Ele irá cair através do piso.</li>
           <li><b>Double Heart Refresh (DHR):</b><br/>
           <b>Objetivo:</b> Posicionar Alucard debaixo do chão.<br/>
           <b>Onde usar:</b> Nas bordas de salas que dão passagem para outra sala.<br/>
@@ -38,12 +38,12 @@
           <b>Objetivo:</b> Abrir 'Shift Lines'.<br/>
           <b>Onde usar:</b> Em áreas com passagem para a direita ou esquerda e onde a câmera acompanhe o movimento de Alucard.<br/>
           <b>Requisitos:</b> <Item item="Duplicator"/> e 2x <Item item="Heart Refresh"/>.<br/>
-          Mova-se até encontrar o ponto exato em que a câmera começa a se mover. Use como ponto de referência algum detalhe da fase. Posicione Alucard após o ponto de refêrencia, então execute o 'Back Dash' (<img src="~static/img/triangulo.gif" alt="Triângulo"/>) e, imediatamente, faça uma seqüência de <abbr title="Heart Refresh">HR</abbr>s até Alucard ultrapassar a linha (que você usou como ponto de referência) da câmera móvel até a câmera imóvel. Se fizer corretamente, uma 'Shift Line' será aberta na borda da passagem que liga uma sala a outra. Com essa técnica, você pode sair pela parte de baixo ou pela parte de cima, basta apenas transformar-se em morcego.</li>
+          Mova-se até encontrar o ponto exato em que a câmera começa a se mover. Use como ponto de referência algum detalhe da fase. Posicione Alucard após o ponto de refêrencia, então execute o 'Back Dash' (<img src="/img/triangulo.gif" alt="Triângulo"/>) e, imediatamente, faça uma seqüência de <abbr title="Heart Refresh">HR</abbr>s até Alucard ultrapassar a linha (que você usou como ponto de referência) da câmera móvel até a câmera imóvel. Se fizer corretamente, uma 'Shift Line' será aberta na borda da passagem que liga uma sala a outra. Com essa técnica, você pode sair pela parte de baixo ou pela parte de cima, basta apenas transformar-se em morcego.</li>
           <li><b>Air Back (AB):</b><br/>
           <b>Objetivo:</b> Usar <Item item="Library card"/> no ar.<br/>
           <b>Onde usar:</b> Fora do castelo, quando estiver sem saída.<br/>
           <b>Requisitos:</b> <Item item="Library card"/>, uma espadas como <Item item="Flamberge"/>, <Item item="Obsidian sword"/> ou <Item item="Zwei hander"/>.<br/>
-          Para usar o <Item item="Library card"/> em pleno ar, basta pular e fazer a magia da espada (<img src="~static/img/tras.gif" alt="Esqerda"/> <img src="~static/img/frente.gif" alt="Direita"/> + <img src="~static/img/quadrado.gif" alt="Quadrado"/> ou <img src="~static/img/circulo.gif" alt="Círculo"/>) e durante o ataque, pausar o jogo, equipar um <Item item="Library card"/>, voltar ao jogo e usá-lo rapidamente. Técnica fundamental para se salvar o jogo após adquirir salas fora do castelo. Esta técnica pode apresentar dificuldades quando Alucard se encontra-se em lugares bem apertados sob o piso de algumas fases. Nestas ocasiões, Alucard costuma dispor de apenas um ataque. Caso tente fazer a magia da espada e ela não saia, você perderá o comando de ataque. Para recuperá-lo, vá para a forma de Lobo, retorne à forma de Alucard e tente novamente. Faça isso até conseguir.</li>
+          Para usar o <Item item="Library card"/> em pleno ar, basta pular e fazer a magia da espada (<img src="/img/tras.gif" alt="Esqerda"/> <img src="/img/frente.gif" alt="Direita"/> + <img src="/img/quadrado.gif" alt="Quadrado"/> ou <img src="/img/circulo.gif" alt="Círculo"/>) e durante o ataque, pausar o jogo, equipar um <Item item="Library card"/>, voltar ao jogo e usá-lo rapidamente. Técnica fundamental para se salvar o jogo após adquirir salas fora do castelo. Esta técnica pode apresentar dificuldades quando Alucard se encontra-se em lugares bem apertados sob o piso de algumas fases. Nestas ocasiões, Alucard costuma dispor de apenas um ataque. Caso tente fazer a magia da espada e ela não saia, você perderá o comando de ataque. Para recuperá-lo, vá para a forma de Lobo, retorne à forma de Alucard e tente novamente. Faça isso até conseguir.</li>
           <li><b>Single Heart Refresh (SHR):</b><br/>
           <b>Objetivo:</b> Abrir uma 'Glitch Room'<br/>
           <b>Onde usar:</b> Fora do castelo<br/>
@@ -58,22 +58,22 @@
           <b>Objetivo:</b> Sair do Castelo, além de servir de suporte para outras técnicas.<br/>
           <b>Onde usar:</b> Dentro e fora do castelo.<br/>
           <b>Requisitos:</b> <Item item="Leap Stone"/>, 2x <Item item="Heart Refresh"/> e <Item item="Duplicator"/>.<br/>
-          Faça um pulo duplo e, ainda no ar, segure para baixo (ou diagonal) e aperte <img src="~static/img/x.gif" alt="X"/> para fazer um 'Dive Kick'. Imediatamente, inicie uma seqüência de <abbr title="Heart Refresh">HR</abbr>s. Muito parecida com a técnica <abbr title="Double Heart Refresh">DHR</abbr>.</li>
+          Faça um pulo duplo e, ainda no ar, segure para baixo (ou diagonal) e aperte <img src="/img/x.gif" alt="X"/> para fazer um 'Dive Kick'. Imediatamente, inicie uma seqüência de <abbr title="Heart Refresh">HR</abbr>s. Muito parecida com a técnica <abbr title="Double Heart Refresh">DHR</abbr>.</li>
           <li><b>Single Jump Heart Refresh (SJHR):</b><br/>
           <b>Objetivo:</b> Completar salas na parte de cima, fora do castelo ('Ceiling Rooms').<br/>
           <b>Onde usar:</b> Fora do castelo em lugares que Alucard atinge o limite superior com apenas um pulo.<br/>
           <b>Requisitos:</b> 2x <Item item="Heart Refresh"/> e <Item item="Duplicator"/>.<br/>
-          Esteja na parte de fora do castelo andando sobre o teto. Aperte e segure <img src="~static/img/x.gif" alt="X"/> para pular e, imediatamente, faça um combo de três a seis <Item item="Heart Refresh"/>es para completar a sala.</li>
+          Esteja na parte de fora do castelo andando sobre o teto. Aperte e segure <img src="/img/x.gif" alt="X"/> para pular e, imediatamente, faça um combo de três a seis <Item item="Heart Refresh"/>es para completar a sala.</li>
           <li><b>Gravity Jump Double Heart Refresh (GJDHR):</b><br/>
           <b>Objetivo:</b> Completar salas na parte de cima, fora do castelo ('Ceiling Rooms').<br/>
           <b>Onde usar:</b> Fora do castelo.<br/>
           <b>Requisitos:</b> <Item item="Leap Stone"/>, <Item item="Gravity Boots"/>, 2x <Item item="Heart Refresh"/> e <Item item="Duplicator"/>.<br/>
-          Esteja andando sobre um teto equipado com 2 <Item item="Heart Refresh"/>es e um <Item item="Duplicator"/>. Execute um 'Gravity Jump', com isso, Alucard deverá atingir o limite máximo superior da tela. No momento que o 'Gravity Jump' acabar, seja rápido e aperte e segure <img src="~static/img/x.gif" alt="X"/> para um segundo pulo (<Item item="Leap Stone"/>). Ao mesmo instante, faça uma seqüência de três a seis <Item item="Heart Refresh"/>es para completar a sala. Na maioria das vezes, você deve usar um 'Gravity Jump' na diagonal para atingir a sala desejada.</li>
+          Esteja andando sobre um teto equipado com 2 <Item item="Heart Refresh"/>es e um <Item item="Duplicator"/>. Execute um 'Gravity Jump', com isso, Alucard deverá atingir o limite máximo superior da tela. No momento que o 'Gravity Jump' acabar, seja rápido e aperte e segure <img src="/img/x.gif" alt="X"/> para um segundo pulo (<Item item="Leap Stone"/>). Ao mesmo instante, faça uma seqüência de três a seis <Item item="Heart Refresh"/>es para completar a sala. Na maioria das vezes, você deve usar um 'Gravity Jump' na diagonal para atingir a sala desejada.</li>
           <li><b>Death Jump Heart Refresh (DJHR):</b><br/>
           <b>Objetivo:</b> Completar 'Ceiling Rooms'.<br/>
           <b>Onde usar:</b> Fora do castelo, em lugares muito altos.<br/>
           <b>Requisitos:</b> <Item item="Soul of Bat"/>, <Item item="Faerie Card"/>, <Item item="Toadstool"/>, <Item item="Life Apple"/>, 2x <Item item="Heart Refresh"/> e <Item item="Duplicator"/>.<br/>
-          Esteja apenas com 1 <abbr title="Health Point">HP</abbr> e equipado com um <Item item="Toadstool"/> e um <Item item="Duplicator"/>. Chegue até o ponto desejado usando 'Gravity Jumps' e, quando estiver bem no topo, jogue um <Item item="Toadstool"/>. Em seguida, dê mais um super pulo na diagonal em direção ao <Item item="Toadstool"/>. Seja rápido e se transforme em morcego para pegá-lo, porém, antes de tocar no cogumelo, acesse o menu de 'Relics' e ative o <Item item="Faerie Card"/>. Volte ao jogo e Alucard irá morrer. A Fada irá lhe ressucitar com a <Item item="Life Apple"/>, então, logo após o feixe de luz desaparecer, aperte e segure <img src="~static/img/x.gif" alt="X"/> e, quase que ao mesmo tempo, vá ao menu e equipe os dois <Item item="Heart Refresh"/>es. Volte ao jogo e, imediatamente inicie um combo de três a seis <abbr title="Heart Refresh">HR</abbr>s para completar a sala. (Não solte o <img src="~static/img/x.gif" alt="X"/> até conseguir a 'Ceiling Room'.)</li>
+          Esteja apenas com 1 <abbr title="Health Point">HP</abbr> e equipado com um <Item item="Toadstool"/> e um <Item item="Duplicator"/>. Chegue até o ponto desejado usando 'Gravity Jumps' e, quando estiver bem no topo, jogue um <Item item="Toadstool"/>. Em seguida, dê mais um super pulo na diagonal em direção ao <Item item="Toadstool"/>. Seja rápido e se transforme em morcego para pegá-lo, porém, antes de tocar no cogumelo, acesse o menu de 'Relics' e ative o <Item item="Faerie Card"/>. Volte ao jogo e Alucard irá morrer. A Fada irá lhe ressucitar com a <Item item="Life Apple"/>, então, logo após o feixe de luz desaparecer, aperte e segure <img src="/img/x.gif" alt="X"/> e, quase que ao mesmo tempo, vá ao menu e equipe os dois <Item item="Heart Refresh"/>es. Volte ao jogo e, imediatamente inicie um combo de três a seis <abbr title="Heart Refresh">HR</abbr>s para completar a sala. (Não solte o <img src="/img/x.gif" alt="X"/> até conseguir a 'Ceiling Room'.)</li>
           <li><b>Wing Smash Heart Refresh (WSHR):</b><br/>
           <b>Objetivo:</b> Abrir uma 'Glitch Room'.<br/>
           <b>Onde usar:</b> Mais comum sob 'Save Points' e 'Teleport Pads'.<br/>
@@ -84,9 +84,9 @@
           Variação a - Se ao invés do lobo você virar o morcego, ficará por alguns instantes paralisado. às vezes é seguido por um momento de invisibilidade.<br/>
           Variação b - Quando for virar lobo ou morcego, faça um 'Back Dash' antes da transformação, também chamado de 'Long Back Dash'.<br/>
           Variação c - Troque a transformação do lobo/morcego pela névoa para que Alucard fique invisível e voando, chamada de 'Vanish Mist'. (Obs.: O jogo trava se o <abbr title="Magic Points">MP</abbr> acabar ou se você apertar R1 para destransformar.)
-          Variação d - Quando for fazer o 'Meat Alucard' usando o <Item item="Fire boomerang"/> + Lobo, antes de apertar R1, aperte <img src="~static/img/x.gif" alt="X"/> (No caso, <img src="~static/img/x.gif" alt="X"/> + R1) para dar um "super pulo". (Pode ser feito usando 'Gravity Jump' ou 'Dive Kick'. Se for realizada qualquer uma dessas dicas na versão japonesa o jogo trava.)</li>
+          Variação d - Quando for fazer o 'Meat Alucard' usando o <Item item="Fire boomerang"/> + Lobo, antes de apertar R1, aperte <img src="/img/x.gif" alt="X"/> (No caso, <img src="/img/x.gif" alt="X"/> + R1) para dar um "super pulo". (Pode ser feito usando 'Gravity Jump' ou 'Dive Kick'. Se for realizada qualquer uma dessas dicas na versão japonesa o jogo trava.)</li>
           <li><b>Alucard e suas transformações juntos na tela:</b><br/>
-          Vá até <NuxtLink to="maps/Long-Library">Long Library</NuxtLink> e use o <abbr title="Double Heart Refresh">DHR</abbr> para entrar na sala do Master Librarian. Para facilitar, pule e inicie o <abbr title="Double Heart Refresh">DHR</abbr> usando mais ou menos 24 <abbr title="Heart Refresh">DH</abbr>s. Não deixe Alucard afundar muito no chão para não cair na sala de baixo. Após estar sob o piso da sala do velho, mova-se em direção ao menu do Librarian. Quando já estiver com o menu na tela, aperte <img src="~static/img/x.gif" alt="X"/> para sair. Observe que Alucard ficará parado, então segure para a direita e se transforme em morcego ou névoa.<br/>
+          Vá até <NuxtLink to="maps/Long-Library">Long Library</NuxtLink> e use o <abbr title="Double Heart Refresh">DHR</abbr> para entrar na sala do Master Librarian. Para facilitar, pule e inicie o <abbr title="Double Heart Refresh">DHR</abbr> usando mais ou menos 24 <abbr title="Heart Refresh">DH</abbr>s. Não deixe Alucard afundar muito no chão para não cair na sala de baixo. Após estar sob o piso da sala do velho, mova-se em direção ao menu do Librarian. Quando já estiver com o menu na tela, aperte <img src="/img/x.gif" alt="X"/> para sair. Observe que Alucard ficará parado, então segure para a direita e se transforme em morcego ou névoa.<br/>
           Variações com o morcego:<br/>
           a) Após fazer a dica acima, aperte R1 para ir para o modo "Bat Alucard".<br/>
           b) Se fizer 'Hellfire' após Alucard estar junto a sua tranformação, o fenômeno se desfaz.<br/>
@@ -108,10 +108,6 @@
     </div>
   </div>
 </template>
-
-<script>
-  export default {}
-</script>
 
 <style scoped>
   li { margin-bottom: 15px; }

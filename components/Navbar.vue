@@ -1,6 +1,6 @@
 <template>
   <aside>
-    <NuxtLink to="/"><img src="~static/img/god.jpg" alt="Game Oracle Deixadilson"/></NuxtLink>
+    <NuxtLink to="/"><img src="/img/god.jpg" alt="Game Oracle Deixadilson"/></NuxtLink>
     <div class="cse-branding-bottom" style="background-color: #000; color: #fff;">
       <div class="cse-branding-form">
         <form action="/search" id="cse-search-box">
@@ -29,8 +29,8 @@
       <NuxtLink to="/videos/">Videos</NuxtLink>
       <NuxtLink to="/artworks">Artworks</NuxtLink>
     </nav>
-    <a href="?lang=br"><img src="~static/img/br.png" alt="Português do Brasil" title="Português do Brasil"/></a>
-    <a href="?lang=www"><img src="~static/img/us.png" alt="English" title="English"/></a>
+    <a href="?lang=br"><img src="/img/br.png" alt="Português do Brasil" title="Português do Brasil"/></a>
+    <a href="?lang=www"><img src="/img/us.png" alt="English" title="English"/></a>
     <h3>Donations:</h3>
     <form action="https://www.paypal.com/donate" method="post" target="_top">
       <input type="hidden" name="hosted_button_id" value="ALQYAZZJGDXWY" />
@@ -39,10 +39,6 @@
     </form>
   </aside>
 </template>
-
-<script>
-  export default {}
-</script>
 
 <style scoped>
   h3 {
