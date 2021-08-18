@@ -12,12 +12,8 @@
       <h2>Items</h2>
       <hr/>
       <main>
-        <p style="text-align: center">The full list of items and relics.</p>
-        <div id="inventory">
-          <NuxtLink v-for="(i, index) in this.$store.state.items" :key="index" :to="`/items/${i.Name.replace(/ /g,'-')}`" :id="i.Name">
-            <img :src="require(`~/assets/items/${slugify(i.Name)}.gif`)" :to="`/items/${i.Name}`" width="28"/>{{ i.Name }}
-          </NuxtLink>
-        </div>
+        <p>The full list of items and relics.</p>
+        <Inventory/>
         <div id="stats" v-if="item">
           <div class="attr">
             STR: {{ item.Strength ? item.Strength : 0 }}<br/>
@@ -76,54 +72,17 @@
         el.scrollIntoView({block: 'center', behavior: 'auto'});
       }
     },
-    computed: {
-      selected() {
-        return this.$store.getters.item(this.item);
-      }
-    },
     methods: {
       slugify(str) {
         return str.toLowerCase().replace(/ /g, '-');
-      },
-      found(found) {
-        let maps = ['Entrance','Alchemy Laboratory','Marble Gallery','Outer Wall','Long Library','Clock Tower','Royal Chapel','Castle Keep','Colosseum','Olrox\'s Quarters','Underground Caverns','Abandoned Mine','Catacombs'];
-        found = found.map(map => {
-          if(maps.includes(map)) return `<a href="/maps/${map.replace(/ /g,'-')}">${map}</a>`;
-          return map;
-        });
-        return found.join(', ');
-      },
-      dropped(dropped) {
-        dropped = dropped.map(enemy => `<a href="/enemies/${enemy.replace(/ /g,'-')}">${enemy}</a>`);
-        return dropped.join(', ');
       }
     }
   }
 </script>
 
 <style scoped>
-  #inventory{
-    width: 300px;
-    height: 400px;
-    padding: 4px;
-    border-style: solid;
-    margin-left: 54px;
-    float: left;
-    overflow: auto;
-  }
-  #inventory a{
-    height: 35px;
-    display: block;
-  }
-  #inventory a:hover {
-    height: 31px;
-    border-style: solid;
-    border-width: 2px;
-    color: #fff;
-  }
-  #inventory a:active, .nuxt-link-exact-active {
-    background-color: #a00;
-    color: #fff;
+  p{
+    text-align: center;
   }
   #stats{
     width: 300px;
@@ -156,7 +115,7 @@
     margin-left: 54px;
     clear: left;
   }
-  #inventory, #stats, #info{
+  #stats, #info{
     background: linear-gradient(#020223, #1d1d5c);
   }
 </style>
