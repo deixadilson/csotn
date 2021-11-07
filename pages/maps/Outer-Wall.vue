@@ -45,3 +45,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Outer Wall - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

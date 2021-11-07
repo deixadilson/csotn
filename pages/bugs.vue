@@ -96,3 +96,13 @@
 <style scoped>
   li { margin-bottom: 15px; }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Bugs - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

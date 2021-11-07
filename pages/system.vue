@@ -267,3 +267,13 @@
     margin: 0 auto;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'System - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

@@ -39,3 +39,13 @@
     float: right;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Dracula Artwork 2 - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

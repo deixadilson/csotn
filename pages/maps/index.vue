@@ -46,3 +46,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Maps - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

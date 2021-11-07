@@ -30,3 +30,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Catacombs - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

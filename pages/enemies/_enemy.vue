@@ -26,6 +26,11 @@
 
 <script>
   export default {
+    head() {
+      return {
+        title: `${this.enemy.Name} - Castlevania: Symphony of the Night`
+      }
+    },
     computed: {
       enemy() {
         return this.$store.getters.enemy(this.$route.params.enemy);

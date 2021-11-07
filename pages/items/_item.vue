@@ -59,6 +59,11 @@
 
 <script>
   export default {
+    head() {
+      return {
+        title: `${this.item.Name} - Castlevania: Symphony of the Night`
+      }
+    },
     data() {
       return {
         classes: ['S.Sword','Sword','Throw 1','Fist','Club','Two-hand','Shield','Throw 2','Bomb','Medicine','Food','Head','Armor','Cloak','Other','Relic'],

@@ -193,3 +193,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Walkthrough - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

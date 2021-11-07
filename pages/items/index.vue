@@ -47,3 +47,13 @@
     background: linear-gradient(#020223, #1d1d5c);
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Items - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

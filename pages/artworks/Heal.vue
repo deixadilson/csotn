@@ -39,3 +39,13 @@
     float: right;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Heal Artwork - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

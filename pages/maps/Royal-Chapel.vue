@@ -46,3 +46,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Royal Chapel - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

@@ -19,3 +19,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Richter\'s Dark Spiked Room - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

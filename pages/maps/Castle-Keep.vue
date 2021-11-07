@@ -35,3 +35,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Castle Keep - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

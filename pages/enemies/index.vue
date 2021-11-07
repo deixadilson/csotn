@@ -221,4 +221,12 @@
   </div>
 </template>
 
-
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Enemies - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

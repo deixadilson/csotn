@@ -26,3 +26,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Search Results - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

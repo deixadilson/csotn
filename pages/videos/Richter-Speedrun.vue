@@ -19,3 +19,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Richter Speedrun - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

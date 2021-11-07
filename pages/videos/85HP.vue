@@ -19,3 +19,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'How to start with 85 HP - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

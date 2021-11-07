@@ -39,3 +39,13 @@
     float: right;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Lisa Artwork - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

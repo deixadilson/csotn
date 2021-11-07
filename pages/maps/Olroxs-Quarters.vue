@@ -38,3 +38,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Olrox\'s Quarters - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

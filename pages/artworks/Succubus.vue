@@ -39,3 +39,13 @@
     float: right;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Succubus Artwork - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

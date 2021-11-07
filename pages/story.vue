@@ -25,3 +25,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Story - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

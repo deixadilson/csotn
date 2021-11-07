@@ -35,3 +35,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Clock Tower - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

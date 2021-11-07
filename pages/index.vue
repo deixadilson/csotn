@@ -93,3 +93,13 @@
     text-align: center;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

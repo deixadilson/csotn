@@ -34,3 +34,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Entrance - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

@@ -58,3 +58,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Secrets - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

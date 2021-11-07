@@ -40,3 +40,13 @@
     float: right;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Artwork - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>

@@ -32,3 +32,13 @@
     width: max-content;
   }
 </style>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Colosseum - Castlevania: Symphony of the Night'
+      }
+    }
+  }
+</script>
