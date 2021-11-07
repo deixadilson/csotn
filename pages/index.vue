@@ -34,6 +34,7 @@
     font-family: sans-serif;
     color: #fff;
     text-align: justify;
+    min-width: 992px;
   }
 
   h1, h2, h3, h4, h5, h6{
