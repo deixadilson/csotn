@@ -1,21 +1,8 @@
 <template>
   <aside>
     <NuxtLink to="/"><img src="/img/god.jpg" alt="Game Oracle Deixadilson"/></NuxtLink>
-    <div class="cse-branding-bottom" style="background-color: #000; color: #fff;">
-      <div class="cse-branding-form">
-        <form action="/search" id="cse-search-box">
-          <div>
-            <input type="hidden" name="cx" value="partner-pub-8005806211984814:j70qnt4xisc"/>
-            <input type="hidden" name="cof" value="FORID:10"/>
-            <input type="hidden" name="ie" value="ISO-8859-1"/>
-            <input type="text" name="q" size="16"/><input type="submit" name="sa" value="Search"/>
-          </div>
-        </form>
-      </div>
-      <div class="cse-branding-logo">
-          <img src="http://www.google.com/images/poweredby_transparent/poweredby_000000.gif" alt="Google"/> Custom Search
-      </div>
-    </div>
+    <script async src="https://cse.google.com/cse.js?cx=07f8a6713bf8b7190"></script>
+    <div class="gcse-search"></div>
     <nav>
       <NuxtLink to="/">Home</NuxtLink>
       <NuxtLink to="/story">Story</NuxtLink>
