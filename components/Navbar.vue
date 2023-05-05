@@ -1,8 +1,10 @@
 <template>
   <aside>
     <NuxtLink to="/"><img src="/img/god.jpg" alt="Game Oracle Deixadilson"/></NuxtLink>
-    <script async src="https://cse.google.com/cse.js?cx=07f8a6713bf8b7190"></script>
-    <div class="gcse-search"></div>
+    <div class="search">
+      <script async src="https://cse.google.com/cse.js?cx=07f8a6713bf8b7190"></script>
+      <div class="gcse-search"></div>
+    </div>
     <nav>
       <NuxtLink to="/">Home</NuxtLink>
       <NuxtLink to="/story">Story</NuxtLink>
@@ -21,8 +23,8 @@
     <h3>Donations:</h3>
     <form action="https://www.paypal.com/donate" method="post" target="_top">
       <input type="hidden" name="hosted_button_id" value="ALQYAZZJGDXWY" />
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-      <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
     </form>
   </aside>
 </template>
@@ -30,6 +32,9 @@
 <style scoped>
   h3 {
     margin: 10px 0 5px;
+  }
+  .search {
+    height: 61px;
   }
   .cse-branding-logo img {
     vertical-align: sub;
